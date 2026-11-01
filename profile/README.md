@@ -1,6 +1,6 @@
 <img width="1600" height="160" alt="691273146-8cc90d00-4a41-4f5d-bb4c-586655213faa" src="https://github.com/user-attachments/assets/3f70132d-dab6-4ea3-8ba2-999ec43fe2f4" />
 
-# 📦 CSC 3100 Archive · Software Engineering · Student Projects · Historical Repositories
+# 📦 CSC 3100 Archive · Student Projects · Historical Repositories
 
 Welcome to the **CSC 3100 Archive**, a collection of student software engineering projects developed as part of CSC 3100 coursework.
 
