@@ -1,4 +1,4 @@
-<img width="1600" height="160" alt="691273146-8cc90d00-4a41-4f5d-bb4c-586655213faa" src="https://github.com/user-attachments/assets/3f70132d-dab6-4ea3-8ba2-999ec43fe2f4" />
+![CSC 3100 course banner](assets/3100-banner.png)
 
 # 📦 Student Projects · Historical Repositories
 
